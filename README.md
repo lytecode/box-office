@@ -9,9 +9,11 @@ This little project, fuilfilled the following requirments.
 2. The endpoints are working, but they simply return "Hello, This is the search route and you searched for movie ABC", for the /api/search route, and "Hello, this is the load route, and you loaded movies in category ABC", for the /api/load route
 
 
-*Frameworks/Packages used:
+*Frameworks/Packages used:*
 _Express_
+
 _require-promise_
+
 _dotenv_
 
 
